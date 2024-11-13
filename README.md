@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm DAKSH THAKUR</h1>
 <h3 align="center">A explorer that like to learn and program in all the language i can find.</h3>
 
-- 🌱 I’m currently learning **New languages( c,**
+- 🌱 I’m currently learning **revising basics of all the languages that i can comprehend**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Just-DT21?tab=repositories](https://github.com/Just-DT21?tab=repositories)
 
